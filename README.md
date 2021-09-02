@@ -2,7 +2,6 @@
 
 Run Ghost Toolbox on any OS <br>
 Download the files  <br>
-Extract the zip <br>
 copy paste the "nhcolor.exe" in System32 (this exe is responsible for the colorful text as well as verification that you are running this on Ghost Spectre OS) <br>
 now open the ghost_toolbox.cmd as admin <br>
 boom! there you go! <br>
